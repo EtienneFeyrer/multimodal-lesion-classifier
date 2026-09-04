@@ -36,11 +36,11 @@ This project explores machine learning approaches to classify malignant skin les
 3. Notebooks are compatible with Google Colab connect to a T4 GPU.
 
 ## Repository Structure
-- `data_processing.ipynb` — Data loading and preprocessing
-- `densenet.ipynb` — DenseNet training and prediction
-- `extend_dense.ipynb` — Feature extension with CNN outputs
-- `forest_training.ipynb` — Random Forest training and evaluation
-- `figures/MultimodalFigure.png` — Pipeline overview figure
+- `data_processing.ipynb` - Data loading and preprocessing
+- `densenet.ipynb` - DenseNet training and prediction
+- `extend_dense.ipynb` - Feature extension with CNN outputs
+- `forest_training.ipynb` - Random Forest training and evaluation
+- `figures/MultimodalFigure.png` - Pipeline overview figure
 
 ## Results
 | Age Group | Accuracy |

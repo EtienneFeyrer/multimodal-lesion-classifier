@@ -2,7 +2,7 @@
 ![Multimodal Pipeline Overview](figures/MultimodalFigure.png)
 
 ## Project Overview
-This project explores machine learning approaches to classify malignant skin lesions—Basal Cell Carcinoma (BCC), Malignant Melanoma (MEL), Squamous Cell Carcinoma (SCC), and Actinic Keratosis (ACK)-from benign skin abnormalities such as Melanocytic Nevus of Skin (NEV) and Seborrheic Keratosis (SEK). The pipeline uses small-scale classifiers (less than 10 million parameters) and combines handcrafted image features, DenseNet CNN out-of-fold predictions, and tabular patient data, with a Random Forest classifier for final predictions.
+This project explores machine learning approaches to classify malignant skin lesions Basal Cell Carcinoma (BCC), Malignant Melanoma (MEL), Squamous Cell Carcinoma (SCC), and Actinic Keratosis (ACK)-from benign skin abnormalities such as Melanocytic Nevus of Skin (NEV) and Seborrheic Keratosis (SEK). The pipeline uses small-scale classifiers (less than 10 million parameters) and combines handcrafted image features, DenseNet CNN out-of-fold predictions, and tabular patient data, with a Random Forest classifier for final predictions.
 
 ---
 
